@@ -62,6 +62,8 @@ Test Accuracy: ~65%
 
 Metrics: Precision, Recall, F1-score for all 10 genres
 
+SAVED MODEL: https://drive.google.com/file/d/1N4n55QebQsVTb4gnA5nxiJ1crj0Ojvof/view?usp=sharing
+
 📌 Key Learnings
 
 How to use transfer learning with EfficientNet
