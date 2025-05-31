@@ -5,6 +5,7 @@ A deep learning project to classify music genres using spectrogram images from t
 📁 Dataset
 
 Source: GTZAN Genre Collection
+Processed & Split Dataset: Google Drive Folder - https://drive.google.com/drive/folders/1VWhWKcU9nbNqAeJVqn4iX-OnGJb07TSd?usp=sharing
 
 Format: Spectrogram images generated from 30-second audio clips
 
