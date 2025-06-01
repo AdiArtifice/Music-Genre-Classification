@@ -48,7 +48,7 @@ Training
 
 Trained with callbacks: EarlyStopping, ReduceLROnPlateau, ModelCheckpoint
 
-Saved best model as .keras
+Saved best model as .h5
 
 Evaluation
 
