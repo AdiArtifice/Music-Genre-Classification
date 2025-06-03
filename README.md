@@ -68,6 +68,8 @@ Test Accuracy: ~65%
 
 Metrics: Precision, Recall, F1-score for all 10 genres
 
+The trained CNN model effectively predicts music genres from audio files, achieving a test accuracy of approximately 69.6% on the GTZAN dataset.
+
 SAVED MODEL: https://drive.google.com/file/d/1N4n55QebQsVTb4gnA5nxiJ1crj0Ojvof/view?usp=sharing
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
